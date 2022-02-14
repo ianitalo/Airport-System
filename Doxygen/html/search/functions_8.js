@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['passenger_0',['Passenger',['../class_passenger.html#ac014c3632fd7db302f6c0c2f9a36c216',1,'Passenger::Passenger()=default'],['../class_passenger.html#ad222e7ffa852028b3893405a465ccad1',1,'Passenger::Passenger(string name, string passport)']]],
-  ['plane_1',['Plane',['../class_plane.html#a83688190ff69491e4598159d2c68bff5',1,'Plane::Plane(int capacity, string registration, string type)'],['../class_plane.html#add6a9f4a8acaccc1548ce764e373bde6',1,'Plane::Plane(string CSVplane)']]],
-  ['popservice_2',['popService',['../class_plane.html#a50f1b6c87289fc64f4923e022bc62a1f',1,'Plane']]]
+  ['luggage_0',['Luggage',['../class_luggage.html#adc5c29282fae82cf4739e4437a5545ae',1,'Luggage::Luggage()'],['../class_luggage.html#a17698efcce782bed2dfcefae50826b96',1,'Luggage::Luggage(int ticketId)'],['../class_luggage.html#afa73d559b2e030cc77ff9399992686af',1,'Luggage::Luggage(string CSVluggage)']]],
+  ['luggagecar_1',['LuggageCar',['../class_luggage_car.html#a22018ce712d2fa9ce2666086f624b787',1,'LuggageCar::LuggageCar()'],['../class_luggage_car.html#abc9793991b3590c9a8205bc2b2072201',1,'LuggageCar::LuggageCar(Airport &amp;airport, int numCarriages, int stacksPerCarriage, int luggagesPerStack)'],['../class_luggage_car.html#a66d30d85e548596aa280d785a64980e6',1,'LuggageCar::LuggageCar(string CSVluggageCar)']]],
+  ['luggagestocar_2',['luggagesToCar',['../class_flight.html#ab3964e598e07b572c25dc38c19e7fc09',1,'Flight']]]
 ];

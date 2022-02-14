@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['gethour_0',['getHour',['../class_time.html#aacb846812dccbf244d52e0f237ad0026',1,'Time']]],
-  ['getid_1',['getId',['../class_luggage_car.html#adebc9decac2bfce7054f9df5ca2ff95b',1,'LuggageCar']]],
-  ['getluggage_2',['getLuggage',['../class_luggage_car.html#af14d18ade19c2ec55594840a7cbdb44d',1,'LuggageCar']]]
+  ['find_0',['find',['../class_b_s_t.html#aaf4eb6869f68db0069534f7b2dfbe53b',1,'BST']]],
+  ['findmax_1',['findMax',['../class_b_s_t.html#a03485f3b0b150f1e69a12c28d26d8092',1,'BST']]],
+  ['findmin_2',['findMin',['../class_b_s_t.html#aa52491ff35aec517961937a17a9fa493',1,'BST']]],
+  ['flight_3',['Flight',['../class_flight.html#a0b192738653de3a8c7f8a8cbd755b54b',1,'Flight::Flight(string CSVflight)'],['../class_flight.html#acbf1e8c321e01e04db2fe651a08b30af',1,'Flight::Flight()'],['../class_flight.html#a4941db1bf681665571e839ddc3711c95',1,'Flight::Flight(Date &amp;departure, Airport &amp;origin)'],['../class_flight.html#abda6d53479402c9ce8e2b424b674cfbb',1,'Flight::Flight(Date &amp;departure, Time duration, Airport &amp;origin, Airport &amp;destination, int availableSeats)']]]
 ];
